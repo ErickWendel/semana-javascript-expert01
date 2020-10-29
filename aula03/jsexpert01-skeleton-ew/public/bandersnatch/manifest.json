@@ -1,0 +1,28 @@
+{
+    "hostTag": "$HOST",
+    "fileResolutionTag": "$RESOLUTION",
+    "localHost": "http://127.0.0.1:8081",
+    "productionHost": "https://dzqxysqpzq1yy.cloudfront.net",
+    "codec": "video/mp4; codecs=\"avc1.64001F,mp4a.40.2\"",
+    "intro": {
+        "url": "$HOST/timeline/01.intro/01.intro-12.733333-$RESOLUTION.mp4",
+        "at": 10,
+        "options": ["Guitarra", "Violao"],
+        "defaultOption": "Guitarra"
+    },
+    "guitarra": {
+        "url": "$HOST/timeline/02.guitarra/02.guitarra-20.733333-$RESOLUTION.mp4",
+        "at": 18,
+        "options": ["Finalizar", "Violao"],
+        "defaultOption": "Finalizar"
+    },
+    "violao": {
+        "url": "$HOST/timeline/02.violao/02.violao-31.066667-$RESOLUTION.mp4",
+        "at": 28,
+        "options": ["Finalizar", "Guitarra"],
+        "defaultOption": "Finalizar"
+    },
+    "finalizar": {
+        "url": "$HOST/timeline/03.encerramento/03.encerramento-4.733333-$RESOLUTION.mp4"
+    }
+}

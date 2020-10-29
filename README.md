@@ -8,4 +8,4 @@ Para cada dia, o código fonte completo da aula será adicionado aqui
 
 - [Aula 01](./aula01/jsexpert01-skeleton-ew)
 - [Aula 02](./aula02/jsexpert01-skeleton-ew)
-
+- [Aula 03](./aula03/jsexpert01-skeleton-ew)
